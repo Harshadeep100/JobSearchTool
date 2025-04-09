@@ -1,6 +1,11 @@
 # JobSearchTool
 Personalized, AI-powered career coach that finds the best job opportunities and provides strategic application advice — all powered by Hugging Face LLMs, Firecrawl web scraping, and Streamlit.
 
+
+## 📸 Demo Screenshot
+![App Demo](Demo_Screenshot.png)
+
+
 🚀 What it does
 🔍 Smart Job Search
 Just enter your role, location, experience, and skills — and the assistant will:
